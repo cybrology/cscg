@@ -1,9 +1,17 @@
-## Cybersecurity Career Guide
+## Cybersecurity News
 
-**Are you preparing for a career in cybersecurity or planning on adding the Cy-Sec flavor to your existing IT profile? Let us help you achieve it.**
+**Looking for a news hub exclusive to Cybersecurity techonlogy, research and products? It's you lucky day!** 
 
-### Cybsercurity as a Domain
-Cybersecurity as a domain is one of the ever-evolving domains
+### Top Cybersecurity Technologies 
+
+### Latest Cybersecurity Technologies 
+
+### Exciting Cybersecurity Reserach around the world
+
+### Latest Cybersecurity Products
+
+### Malware/Cyber breach incidents around the world 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
