@@ -2,7 +2,8 @@
 
 **Are you preparing for a career in cybersecurity or planning on adding the Cy-Sec flavor to your existing IT profile? Let us help you achieve it.**
 
-#Cybsercurity# is one of the ever-evolving domains
+#Cybsercurity
+is one of the ever-evolving domains
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
