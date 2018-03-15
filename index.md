@@ -1,6 +1,6 @@
 ## Cybersecurity Career Guide
 
-You can use the [editor on GitHub](https://github.com/cybrology/cscg/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Are you preparing for a career in cybersecurity or planning on adding the Cy-Sec flavor to your existing IT profile? Let us help you achieve it.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
