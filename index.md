@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cybersecurity Career Guide
 
 You can use the [editor on GitHub](https://github.com/cybrology/cscg/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
